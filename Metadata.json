@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 911,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/update-azure-s2s-vpn-secret-rras/master/Update-AzureS2SVPNSecret.ps1",
+    "DownloadCount": 591,
+    "Id": "Update-Azure-S2S-vpn-7127f27b",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 496,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-3-5T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script will find the Site to Site VPN secret and then update it in RRAS.If you subscription expires or you use up too much credit then you need to recreate the Gateway and VPN, so you also need to update the secret.This script might also be useful along side the Update-Azure",
+    "Title": "Update Azure S2S vpn secret RRAS",
+    "UpdatedDate": "2016-3-5T00:00:00",
+    "Url": "https://github.com/azureautomation/update-azure-s2s-vpn-secret-rras",
+    "UserTags": "RRAS, azure virtual network, Site to Site VPN"
+}
